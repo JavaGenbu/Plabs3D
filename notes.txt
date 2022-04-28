@@ -1,0 +1,7 @@
+
+Pretty print dataframe
+
+with pd.option_context('display.max_rows', None, 'display.max_columns', None):  # more options can be specified also
+    print(df)
+
+    Saber como los clutches afectan al indice de victoria
